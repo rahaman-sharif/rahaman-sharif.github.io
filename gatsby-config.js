@@ -1,8 +1,8 @@
 module.exports = {
     siteMetadata: {
-        description: "Personal page of Swarag Narayanasetty",
+        description: "Personal page of Rahaman Sharif Shaik",
         locale: "en",
-        title: "Swarag Narayanasetty",
+        title: "Rahaman Sharif Shaik",
         formspreeEndpoint: "https://formspree.io/f/xzbywedl",
         showThemeLogo: false
     },
