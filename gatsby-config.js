@@ -3,7 +3,7 @@ module.exports = {
         description: "Personal page of Rahaman Sharif Shaik",
         locale: "en",
         title: "Rahaman Sharif Shaik",
-        formspreeEndpoint: "https://formspree.io/f/xzbywedl",
+        formspreeEndpoint: "https://formspree.io/f/xgvwqvea",
         showThemeLogo: false
     },
     plugins: [
