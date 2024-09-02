@@ -1,3 +1,12 @@
+- name: Binder-free NiO/CuO hybrid structure via ULPING (Ultra-short Laser Pulse for In-situ Nanostructure Generation) technique for supercapacitor electrode
+  url: https://www.nature.com/articles/s41598-023-34274-w
+  description: In this work, the ULPING method was presented to develop a hybrid structure for hybrid structure. Pulse ionization fusion of high purity Cu tape onto Ni sheet to form a CuO/NiO hybrid structure for electrode was possible via picosecond laser. Mainly analysis of morphology with a variation of laser intensity or pulse energy was demonstrated. This method created self-standing, binder-free 3D nanostructures which exhibit remarkable performance as a candidate for the pseudocapacitive electrode.
+  status: live
+  tags:
+    - Supercapacitors
+    - Material Characterization
+    - Nanomaterials
+
 - name: Value-added utilization of nano-materials in Polymer Matrix Composites
   description: Categorized various nano-materials which can be reinforced with Polymer Matrix Composites. Studied properties of various nano-materials and their classifications.
   status: live
@@ -5,7 +14,7 @@
     - Material Science
     - Nano Materials
     - Polymer Nanocomposites
-  # icon: website
+
 
 - name: Open Lattice Composites (ISOTRUSS)
   description: Proposed various factors such as Concept Development, Concept Screening, Failure Modes and Effects Analysis (FMEA), and Methodology of the Isotruss. Designed a CAD Model of 8-Node Isotruss using SolidWorks.
@@ -15,11 +24,5 @@
     - FMEA
 
 - name: Joining of High Entropy alloy through friction-stir welding
-  # url: https://github.com/Swarag-N/E-Voting-BlockChain
   description: Compared available high entropy alloys and studied the feasibility of friction-stir welding operations. Developed literature review on applications of high entropy alloys such as Al, Zr, Ti, Zn, etc.
   status: live
-  # tags:
-  #   - Flask
-  #   - ngrok
-  #   - Docker
-  # icon: github
