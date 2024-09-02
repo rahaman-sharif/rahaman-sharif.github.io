@@ -1,0 +1,33 @@
+- profile:
+  initials: RS
+  name: Rahaman Sharif Shaik
+  profession: MS Industrial & Systems Engineering Student
+  image: images/profile.jpg
+  location: Madison, WI
+  relocation: false
+  company: University of Wisconsin-Madison
+  for_hire: true
+  focus: Industrial Engineering / Supply chain Managment
+  focus_url: https://www.nature.com/articles/s41598-023-34274-w
+  about: |
+    Open to challenging position in a high-quality engineering environment where my resourceful experience and academic skills will add value to organizational operations.
+  skills:
+    - SAP-ERP
+    - Manufacturing Exceution Systems (MES)
+    - Windchill-PLM
+    - Six Sigma Yellow Belt
+    - DOE Analysis
+    - SQL
+  tools:
+    - Fusion 360
+    - SolidWorks-PDM
+    - Ansys Workbench - Structural
+    - Minitab
+    - Python
+    - AutoCAD
+
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
