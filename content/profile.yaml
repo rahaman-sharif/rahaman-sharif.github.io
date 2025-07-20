@@ -12,18 +12,20 @@
   about: |
     Open to challenging position in a high-quality engineering environment where my resourceful experience and academic skills will add value to organizational operations.
   skills:
+    - MODAPTS
     - SAP-ERP
     - Manufacturing Exceution Systems (MES)
     - Windchill-PLM
-    - Six Sigma Yellow Belt
+    - Six Sigma Green Belt
     - DOE Analysis
-    - SQL
+   
   tools:
-    - Fusion 360
+    - Flexsim
     - SolidWorks-PDM
     - Ansys Workbench - Structural
     - Minitab
-    - Python
+    - SQL
+    - Splunk
     - AutoCAD
 
   budget:

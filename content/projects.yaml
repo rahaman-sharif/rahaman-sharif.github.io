@@ -1,3 +1,18 @@
+- name: Enhancing Operational Excellence via ISO Standards Integration
+  description: Drafted a comprehensive QMS manual aligned with ISO 9001:2015 and ISO 14001:2015 standards, conducted internal audits to evaluate compliance gaps, and recommended corrective actions using PDCA methodology—gaining hands-on experience in auditing techniques, risk-based thinking, document control, and environmental impact assessment.
+  status: live
+  tags:
+    - ISO 9001:2015
+    - ISO 14001:2015
+    - IATF 16949:2015
+
+- name: SAP Simulation & Procurement Strategy in Supply Chain
+  description: Led procurement operations in SAP S4/HANA simulation, executing 30+ strategic transactions and optimizing supplier selection; helped team win 1st place by minimizing costs and maximizing service levels.
+  status: live
+  tags:
+    - SAP S4/HANA
+    - Tableau Dashboards
+
 - name: Binder-free NiO/CuO hybrid structure via ULPING (Ultra-short Laser Pulse for In-situ Nanostructure Generation) technique for supercapacitor electrode
   url: https://www.nature.com/articles/s41598-023-34274-w
   description: In this work, the ULPING method was presented to develop a hybrid structure for hybrid structure. Pulse ionization fusion of high purity Cu tape onto Ni sheet to form a CuO/NiO hybrid structure for electrode was possible via picosecond laser. Mainly analysis of morphology with a variation of laser intensity or pulse energy was demonstrated. This method created self-standing, binder-free 3D nanostructures which exhibit remarkable performance as a candidate for the pseudocapacitive electrode.
